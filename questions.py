@@ -119,7 +119,7 @@ avg=a/n
 print(avg)'''
 
 
-                 #WAP to perform the arthematic calculations?
+                #  WAP to perform the arthematic calculations?
 
 '''def arthmetic (a,b):
     return a+b, a-b, a*b,a/b

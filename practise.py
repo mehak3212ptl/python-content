@@ -44,12 +44,12 @@ else:
     print("not")'''
 #___________________________________________________________________________
                             #even odd program 
-'''num=int(input("enter a no."))
+num=int(input("enter a no."))
 if num%2==0:
-    print("no. is even")
+        print("no. is even")
     
 else:
-    print("odd no.")'''
+        print("odd no.")
 #__________________________________________________________________________
                         # divisibility of 7
 '''
@@ -340,7 +340,7 @@ s="Geeks123for123Geeks"
 m=s.split()
 print(m)
 
-
+<h1> my name is mehak patel</h1>
 
 
 

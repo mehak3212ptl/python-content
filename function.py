@@ -10,3 +10,5 @@ n=int(input("enter range"))
 a=add(n)
 avg=a/n
 print(avg)
+#qwertyuiop
+#asdfghjkl

@@ -43,7 +43,7 @@ print("second object from genrator:",next(var))
 for y in var:
     print(y)
     '''
-
+#asdfghjkl
     
 
         
